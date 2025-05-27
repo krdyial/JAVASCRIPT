@@ -1,4 +1,4 @@
 
 
 
-console.log("Alaettin")
+console.log("Alaettin");
